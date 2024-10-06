@@ -1,1 +1,1 @@
-# BRITO19-Actividad-1-Dise-o-de-estructura-de-Paginas-Web
+# BRITO19-Actividad-1-Diseño-de-estructura-de-Paginas-Web
