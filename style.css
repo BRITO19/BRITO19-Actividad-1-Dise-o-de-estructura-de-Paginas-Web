@@ -1,0 +1,54 @@
+body{
+    background-color: aliceblue;
+}
+
+#p{
+color: rgb(2, 71, 92);
+font-size:large;
+
+}
+
+#pregunta{
+    font-weight: bold;
+    font-size: large;
+}
+
+footer{
+   
+    font-size: large;
+    
+}
+
+#li{
+    font-size: large;
+}
+
+.btn{
+    text-align:center;
+    display: inline;
+    padding: 10px 20px;
+    font-size: 16px;
+    
+    color: #ffffff;
+    background-color: #00365f;
+    border:none;
+    border-radius: 5px;
+    
+    transition:background-color 0.3s,transform 0.3s;
+}
+
+.btn:hover {
+        background-color: #383838;
+        
+    }
+    
+.btn:active{
+    transform: scale(0.95);
+}
+
+
+div{
+    text-align:center;
+}
+
+
